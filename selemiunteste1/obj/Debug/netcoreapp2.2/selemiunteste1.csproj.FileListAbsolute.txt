@@ -1,0 +1,9 @@
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\bin\Debug\netcoreapp2.2\selemiunteste1.deps.json
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\bin\Debug\netcoreapp2.2\selemiunteste1.dll
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\obj\Debug\netcoreapp2.2\selemiunteste1.csproj.CoreCompileInputs.cache
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\obj\Debug\netcoreapp2.2\selemiunteste1.AssemblyInfoInputs.cache
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\obj\Debug\netcoreapp2.2\selemiunteste1.AssemblyInfo.cs
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\bin\Debug\netcoreapp2.2\selemiunteste1.pdb
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\obj\Debug\netcoreapp2.2\selemiunteste1.csprojAssemblyReference.cache
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\obj\Debug\netcoreapp2.2\selemiunteste1.dll
+C:\Users\adriano.frota.silva\source\repos\selemiunteste1\obj\Debug\netcoreapp2.2\selemiunteste1.pdb
